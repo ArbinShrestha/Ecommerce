@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -82,3 +83,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # Ecommerce
 Ecommerce site
 >>>>>>> a247f7270ef0e0ff242ca0f2e3a2beda3c04adfa
+=======
+# Ecommerce
+simple ecommerce site
+>>>>>>> f0a0b83bf1529a7b68322917e1c830cf569a0863
